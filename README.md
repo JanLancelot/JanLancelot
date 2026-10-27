@@ -18,6 +18,7 @@ class:           Software Engineer
 core_languages:  [Rust, TypeScript, Java, Go, Python]
 current_mission: Shipping the RouteVN Web Extractor
 side_quests:     [Japanese-immersion tooling, Rust desktop apps]
+origin_story:    WRO Future Engineers · Philippine national team, WRO 2022 Germany
 operating_mode:  spec-first · test-backed · documented
 ```
 
@@ -26,6 +27,31 @@ operating_mode:  spec-first · test-backed · documented
 ## 📡 Current mission: [RouteVN Web Extractor](https://routevn.com/en/web-extractor/)
 
 A browser extension for reading web-based visual novels. It reads dialogue straight from Ren'Py Web and TyranoScript games instead of using OCR, and shows it in an overlay with a pop-up Japanese/English dictionary, pitch accent, furigana and one-key Anki export.
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+
+## 🏆 Robotics: where the robots come from
+
+Before the robots on this page were SVGs, they were real. I competed in the World Robot Olympiad's **Future Engineers** category, where teams design, build and program a self-driving robot car that completes a randomized course on its own.
+
+<p align="center">
+  <img src="./assets/robotics.svg" width="100%" alt="Robotics mission log, Future Engineers: 2021 World Robot Olympiad, 8th place; 2022 Philippine Robotics Olympiad, 1st place; 2022 WRO Germany in Dortmund, represented the Philippines" />
+</p>
+
+<table>
+<tr>
+<td align="center" valign="top">
+<img src="./assets/wro2022-team.jpg" height="300" alt="The Philippine Robotics National Team for WRO 2022, holding the Philippine flag" /><br/>
+<sub>🇵🇭 The Philippine Robotics National Team, WRO 2022</sub>
+</td>
+<td align="center" valign="top">
+<img src="./assets/wro2022-competing.jpg" height="300" alt="Competing at the Future Engineers field at WRO 2022 in Dortmund" /><br/>
+<sub>🏁 Live at the Future Engineers field, Dortmund</sub>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Photos: <a href="https://www.felta.ph/2022/philippine-robotics-national-team-dyci-primes-won-gold-score-ranking-and-bronze-award-at-world-robot-olympiad-germany-2022/">FELTA Multi-Media Inc.</a>, national organizer of the Philippine Robotics National Team</sub></p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
