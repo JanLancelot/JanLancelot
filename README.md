@@ -17,7 +17,7 @@ designation:     Jan Lancelot P. Mailig
 class:           Software Engineer
 core_languages:  [Rust, TypeScript, Java, Go, Python]
 current_mission: Shipping the RouteVN Web Extractor
-side_quests:     [Japanese-immersion tooling, Rust desktop apps]
+side_quests:     [Japanese-immersion tooling, Rust desktop apps, video editing]
 origin_story:    WRO Future Engineers · Philippine national team, WRO 2022 Germany
 operating_mode:  spec-first · test-backed · documented
 ```
@@ -138,6 +138,37 @@ A Japanese-immersion workstation in the browser. An EPUB reader, a manga reader 
 | [Volunteer Match](https://github.com/JanLancelot/icp-new-dapp) · [live ↗](https://icp-new-dapp.vercel.app) | Matches volunteers with organizations and their events | React · Express · SQLite |
 
 </details>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+
+## Broadcast module: [Liquid on YouTube](https://www.youtube.com/@Liquid-0911/featured)
+
+Off the clock I edit videos, mostly about anything otaku. My favorite builds are the ones where code and editing meet, like turning thousands of Minecraft bees into a display.
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://www.youtube.com/watch?v=M6KbG3wA2bE"><img src="https://img.youtube.com/vi/M6KbG3wA2bE/maxresdefault.jpg" width="100%" alt="Playing DOOM using 16,000 Minecraft Bees" /></a>
+
+### [Playing DOOM using 16,000 Minecraft Bees](https://www.youtube.com/watch?v=M6KbG3wA2bE)
+DOOM runs inside Minecraft, and 16,000 bees act as the pixels. A Java ASM agent hooks the game client and a native JNI bridge runs the DOOM engine.
+
+`Java` `ASM` `JNI` `C`
+
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://www.youtube.com/watch?v=5VYAtK2ZqHE"><img src="https://img.youtube.com/vi/5VYAtK2ZqHE/maxresdefault.jpg" width="100%" alt="Bad Apple!! But it's Minecraft bees." /></a>
+
+### [Bad Apple!! But it's Minecraft bees.](https://www.youtube.com/watch?v=5VYAtK2ZqHE)
+My take on the internet's "Bad Apple!! on everything" challenge: the whole shadow-art music video, played back with Minecraft bees as the pixels.
+
+`Minecraft` `Video editing`
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://www.youtube.com/@Liquid-0911"><img src="https://img.shields.io/badge/YouTube-Liquid-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Liquid on YouTube" /></a></p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
