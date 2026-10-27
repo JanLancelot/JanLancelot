@@ -9,7 +9,7 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-## 🤖 `$ whoami`
+## `$ whoami`
 
 ```yaml
 unit:            JLM-01
@@ -24,13 +24,13 @@ operating_mode:  spec-first · test-backed · documented
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-## 📡 Current mission: [RouteVN Web Extractor](https://routevn.com/en/web-extractor/)
+## Current mission: [RouteVN Web Extractor](https://routevn.com/en/web-extractor/)
 
 A browser extension for reading web-based visual novels. It reads dialogue straight from Ren'Py Web and TyranoScript games instead of using OCR, and shows it in an overlay with a pop-up Japanese/English dictionary, pitch accent, furigana and one-key Anki export.
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-## 🏆 Robotics: where the robots come from
+## Robotics: where the robots come from
 
 Before the robots on this page were SVGs, they were real. I competed in the World Robot Olympiad's **Future Engineers** category, where teams design, build and program a self-driving robot car that completes a randomized course on its own.
 
@@ -42,11 +42,11 @@ Before the robots on this page were SVGs, they were real. I competed in the Worl
 <tr>
 <td align="center" valign="top">
 <img src="./assets/wro2022-team.jpg" height="300" alt="The Philippine Robotics National Team for WRO 2022, holding the Philippine flag" /><br/>
-<sub>🇵🇭 The Philippine Robotics National Team, WRO 2022</sub>
+<sub>The Philippine Robotics National Team, WRO 2022</sub>
 </td>
 <td align="center" valign="top">
 <img src="./assets/wro2022-competing.jpg" height="300" alt="Competing at the Future Engineers field at WRO 2022 in Dortmund" /><br/>
-<sub>🏁 Live at the Future Engineers field, Dortmund</sub>
+<sub>Live at the Future Engineers field, Dortmund</sub>
 </td>
 </tr>
 </table>
@@ -55,7 +55,7 @@ Before the robots on this page were SVGs, they were real. I competed in the Worl
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-## ⚙️ Installed modules
+## Installed modules
 
 | Subsystem | Modules |
 | :-- | :-- |
@@ -68,13 +68,13 @@ Before the robots on this page were SVGs, they were real. I competed in the Worl
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-## 🛠️ Featured builds
+## Featured builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 [mosaic-maker](https://github.com/JanLancelot/mosaic-maker)
+### [mosaic-maker](https://github.com/JanLancelot/mosaic-maker)
 A desktop app that rebuilds a picture out of many smaller pictures, then lets you inspect which picture fills each tile. Source images are identified by a BLAKE3 hash of their contents, so a duplicated file only counts once.
 
 `Rust` `egui` `Rayon` `BLAKE3`
@@ -82,7 +82,7 @@ A desktop app that rebuilds a picture out of many smaller pictures, then lets yo
 </td>
 <td width="50%" valign="top">
 
-### 📦 [nexus-supply-chain](https://github.com/JanLancelot/nexus-supply-chain)
+### [nexus-supply-chain](https://github.com/JanLancelot/nexus-supply-chain)
 A supply-chain platform with purchase-order approvals, warehouse stock control, and low-stock events that draft replenishment orders. It ships with Grafana dashboards, alerting and a measured reliability case study.
 
 `Spring Boot` `React` `PostgreSQL` `Redis` `Kafka` `Prometheus`
@@ -92,7 +92,7 @@ A supply-chain platform with purchase-order approvals, warehouse stock control, 
 <tr>
 <td width="50%" valign="top">
 
-### 🐐 [goat-ecommerce](https://github.com/JanLancelot/goat-ecommerce)
+### [goat-ecommerce](https://github.com/JanLancelot/goat-ecommerce)
 A polyglot microservices marketplace. Go order and payment services run Temporal workflows over gRPC, NestJS GraphQL subgraphs sit behind an Apollo Federation gateway, and a FastAPI + Qdrant service makes recommendations. Deploys through Helm, Argo CD, Istio and KEDA.
 
 `Go` `NestJS` `GraphQL` `Temporal` `Kubernetes` `k6`
@@ -100,7 +100,7 @@ A polyglot microservices marketplace. Go order and payment services run Temporal
 </td>
 <td width="50%" valign="top">
 
-### 🏛️ [licensify](https://github.com/JanLancelot/licensify) · [live ↗](https://react-native-repo.vercel.app)
+### [licensify](https://github.com/JanLancelot/licensify) · [live ↗](https://react-native-repo.vercel.app)
 An offline-first reviewer app for the Philippine Architectural Licensure Examination. It has mock board exams, flashcards, gamification and a web admin dashboard, and syncs a local SQLite store with Convex.
 
 `React Native` `Expo` `Convex` `SQLite` `Drizzle`
@@ -110,7 +110,7 @@ An offline-first reviewer app for the Philippine Architectural Licensure Examina
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [ZOC](https://github.com/JanLancelot/zoc-ticktick-clone) · [live ↗](https://zoc-productivity.vercel.app)
+### [ZOC](https://github.com/JanLancelot/zoc-ticktick-clone) · [live ↗](https://zoc-productivity.vercel.app)
 A TickTick-inspired task, habit and focus tracker. It has list, kanban and calendar views, iCal RRULE recurrence, habit streaks and a Pomodoro timer.
 
 `Next.js 16` `React 19` `Prisma` `PostgreSQL` `Better Auth`
@@ -118,7 +118,7 @@ A TickTick-inspired task, habit and focus tracker. It has list, kanban and calen
 </td>
 <td width="50%" valign="top">
 
-### 🗾 [japan-os](https://github.com/JanLancelot/japan-os)
+### [japan-os](https://github.com/JanLancelot/japan-os)
 A Japanese-immersion workstation in the browser. An EPUB reader, a manga reader with in-browser OCR, a texthooker and a video player all share one pop-up dictionary.
 
 `Next.js` `TypeScript` `Tesseract.js`
@@ -128,14 +128,14 @@ A Japanese-immersion workstation in the browser. An EPUB reader, a manga reader 
 </table>
 
 <details>
-<summary><b>🗄️ More from the archive</b></summary>
+<summary><b>More from the archive</b></summary>
 <br/>
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| ⛽ [GasGuessr](https://github.com/JanLancelot/GasGuessr) | Fuel-cost simulator with a trip calculator, budget estimator and sensitivity charts | React Native · Expo |
-| 💸 [Mind Wallet](https://github.com/JanLancelot/mind-wallet-pro-elec) · [live ↗](https://mind-wallet-pro-elec.vercel.app) | Budget tracker that graphs spending against mood | React · Firebase |
-| 🤝 [Volunteer Match](https://github.com/JanLancelot/icp-new-dapp) · [live ↗](https://icp-new-dapp.vercel.app) | Matches volunteers with organizations and their events | React · Express · SQLite |
+| [GasGuessr](https://github.com/JanLancelot/GasGuessr) | Fuel-cost simulator with a trip calculator, budget estimator and sensitivity charts | React Native · Expo |
+| [Mind Wallet](https://github.com/JanLancelot/mind-wallet-pro-elec) · [live ↗](https://mind-wallet-pro-elec.vercel.app) | Budget tracker that graphs spending against mood | React · Firebase |
+| [Volunteer Match](https://github.com/JanLancelot/icp-new-dapp) · [live ↗](https://icp-new-dapp.vercel.app) | Matches volunteers with organizations and their events | React · Express · SQLite |
 
 </details>
 
