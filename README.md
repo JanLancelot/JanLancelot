@@ -63,7 +63,7 @@ Before the robots on this page were SVGs, they were real. I competed in the Worl
 | **Frontend & apps** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,tauri&theme=dark" alt="React, Next.js, Tailwind CSS, Vite, Tauri" /><br/><sub>+ React Native · Expo · egui · Rettangoli</sub> |
 | **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,spring,laravel,graphql,apollo,prisma,firebase&theme=dark" alt="Node.js, Bun, NestJS, Spring, Laravel, GraphQL, Apollo, Prisma, Firebase" /><br/><sub>+ gRPC · Temporal · FastAPI · Convex · Better Auth</sub> |
 | **Data & messaging** | <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,kafka&theme=dark" alt="PostgreSQL, Redis, SQLite, Kafka" /><br/><sub>+ Drizzle · Qdrant</sub> |
-| **Infra & observability** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,cloudflare,prometheus,grafana,githubactions,vercel,linux&theme=dark" alt="Docker, Kubernetes, Terraform, AWS, Cloudflare, Prometheus, Grafana, GitHub Actions, Vercel, Linux" /><br/><sub>+ Helm · Argo CD · Istio · KEDA · OpenTelemetry · Packer</sub> |
+| **Infra & observability** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,cloudflare,prometheus,grafana,githubactions,vercel,linux&theme=dark" alt="Docker, Kubernetes, Terraform, AWS, Azure, Cloudflare, Prometheus, Grafana, GitHub Actions, Vercel, Linux" /><br/><sub>+ Helm · Argo CD · Istio · KEDA · OpenTelemetry · Packer</sub> |
 | **Testing** | <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="Vitest" /><br/><sub>+ Playwright · k6</sub> |
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
@@ -85,7 +85,7 @@ A desktop app that rebuilds a picture out of many smaller pictures, then lets yo
 ### [nexus-supply-chain](https://github.com/JanLancelot/nexus-supply-chain)
 A supply-chain platform with purchase-order approvals, warehouse stock control, and low-stock events that draft replenishment orders. It ships with Grafana dashboards, alerting and a measured reliability case study.
 
-`Spring Boot` `React` `PostgreSQL` `Redis` `Kafka` `Prometheus`
+`Spring Boot` `React` `PostgreSQL` `Redis` `Kafka` `Prometheus` `Azure`
 
 </td>
 </tr>
